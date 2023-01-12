@@ -1,0 +1,57 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background: white;
+}
+
+body{
+    margin:0;
+    padding: 0;
+    color: #ff9400;
+}
+
+.but{
+    margin: 25px;
+    text-align: center;
+    display:inline-block;
+}
+.hat{
+    width: 100%;
+    color: #ff9400;
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    border: 0;
+}
+.hat h6{margin: 0;}
+div {
+    width: 100%;
+}
+
+.text{
+    background: #ff9400;
+    color: #070707; /* Цвет текста*/
+    padding: 0px; /* Поля вокруг текста*/
+    border-radius: 10px;
+    font-size: 10px;
+    font-family: cursive;
+}
+
+input{
+    background: #ff9400; /* Цвет фона */
+    border: 0px solid black; /* Параметры рамки */
+    border-radius: 20px;
+    box-shadow: 0 0 4px 3px #fff;
+    font-size: 15px;
+}
+table{
+    color: #ff9400;
+    border: 1px double #ff9400;
+    padding: 2px;
+    font-size: 20px;
+    width: 100%;
+}
+th,td{
+    font-size: 15px;
+}
